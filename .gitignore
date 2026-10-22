@@ -22,3 +22,7 @@ docs/pr22-comment.md
 
 # local junk and secrets, never committed (2026-10-21)
 .venv/
+
+# private: real session titles and private project names, never in this public repo (2026-10-22)
+TASKS.md
+docs/screenshot-sessions-live.png
