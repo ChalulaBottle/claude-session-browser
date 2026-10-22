@@ -19,3 +19,6 @@ clawd_sprites.py.bak
 docs/makerworld-listing.md
 docs/hermann-issue.md
 docs/pr22-comment.md
+
+# local junk and secrets, never committed (2026-10-21)
+.venv/
